@@ -3,3 +3,4 @@ This is an improvement of feature x!
 Bug fixed!
 Added new line! This is master!
 Added new line! This is feautue x!
+Another line :)
