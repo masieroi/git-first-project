@@ -1,4 +1,4 @@
 This is the great feature x!
 This is an improvement of feature x!
 Bug fixed!
-Added new line!
+Added new line! This is feautue x!
